@@ -1,0 +1,32 @@
+.welp {
+    font-size: 30px;
+}
+
+body {
+    background-size: cover;
+}
+.note, #square_side {
+    color: rgb(112, 52, 52);
+}
+
+.copyright_footer {
+    position: fixed;
+    color: white;
+    bottom: 0%;
+    width: 100%;
+    background-color: rgba(163, 66, 66, 0.619);
+    line-height: 3;
+    text-align: center;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgba(103, 82, 82, 0.731);
+    visibility: visible;
+}
+
+video {
+    padding-left: 30px;
+    padding-bottom: 50px;
+}
